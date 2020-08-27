@@ -1,0 +1,25 @@
+{
+  "name": "restuarant",
+  "version": "1.0.0",
+  "description": "> This is part of the Restuarant Project in [The Odin Project's](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page?ref=lnav) Javascript Curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiwocoker/Restuarant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taiwocoker/Restuarant/issues"
+  },
+  "homepage": "https://github.com/taiwocoker/Restuarant#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
