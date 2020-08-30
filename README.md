@@ -2,7 +2,7 @@
 
 > This is part of the Restuarant Project in [The Odin Project's](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page?ref=lnav) Javascript Curriculum.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./snapshot.png)
 
  View the app live [here](https://taiwocoker.github.io/JavaScript_Tic-Tac-Toe/)
  
