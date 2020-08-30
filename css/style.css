@@ -66,7 +66,7 @@ nav {
 .bg-image {
   padding: 15% 0 0 4%;
   background: linear-gradient(to left, rgba(5, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('../images/bg-image2.jpg');
+    url('../images/bg-image4.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -122,27 +122,27 @@ nav {
 }
 
 .menu-img-1 {
-  background-image: url('../images/egg-sauce.png');
+  background-image: url('../images/menu-1.jpg');
 }
 
 .menu-img-2 {
-  background-image: url('../images/Afang-soup-10-1024x683.jpg');
+  background-image: url('../images/menu-2.jpg');
 }
 
 .menu-img-3 {
-  background-image: url('../images/egusi-soup-recipe-500x500.jpg');
+  background-image: url('../images/menu-3.jpg');
 }
 
 .menu-img-4 {
-  background-image: url('../images/unnamed.jpg');
+  background-image: url('../images/menu-4.jpg');
 }
 
 .menu-img-5 {
-  background-image: url('../images/1_9seqF_iHxsDsH3W9B0yGig@2x.jpeg');
+  background-image: url('../images/menu-5.jpg');
 }
 
 .menu-img-6 {
-  background-image: url('../images/Banku.jpg');
+  background-image: url('../images/menu-6.jpg');
 }
 /* contact */
 .contact-container {

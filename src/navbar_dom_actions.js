@@ -4,7 +4,7 @@ const navbarDom = () => {
   const navLogo = document.createElement("div");
   navLogo.classList.add("nav-logo");
   const navHeader = document.createElement("h1");
-  navHeader.innerText = "CREAMY DELIGHT";
+  navHeader.innerText = "TASTY MEALS";
 
   navLogo.appendChild(navHeader);
 
