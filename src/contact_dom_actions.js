@@ -1,13 +1,13 @@
 const contactPage = () => {
-    const contact = document.createElement('div');
-    contact.classList.add('contact-container');
+  const contact = document.createElement('div');
+  contact.classList.add('contact-container');
 
-    const contactHeader = document.createElement('h2');
-    contactHeader.innerText = 'CONTACT US';
+  const contactHeader = document.createElement('h2');
+  contactHeader.innerText = 'CONTACT US';
 
-    const contactForm = document.createElement('form');
-    
-    const htmlForm = `
+  const contactForm = document.createElement('form');
+
+  const htmlForm = `
         <div class="form-group">
             <label for="name">NAME:</label>
             <input type="text" placeholder="Enter Name">
@@ -24,12 +24,11 @@ const contactPage = () => {
             <input type="submit" name="submit">
         </div>
     `;
-    contactForm.innerHTML = htmlForm;
-    contact.appendChild(contactHeader);
-    contact.appendChild(contactForm);
+  contactForm.innerHTML = htmlForm;
+  contact.appendChild(contactHeader);
+  contact.appendChild(contactForm);
 
-    return contact;
-
+  return contact;
 };
 
 export default contactPage;

@@ -1,14 +1,14 @@
-import header from "./navbar_dom_actions";
-import mainPage from "./home_dom_actions";
+import header from './navbar_dom_actions';
+import mainPage from './home_dom_actions';
 import menuItem from './menu_dom_actions';
-import contactUs from "./contact_dom_actions";
+import contactUs from './contact_dom_actions';
 
 const navbar = header();
 const homePage = mainPage();
 const menuPage = menuItem();
 const contactPage = contactUs();
 
-const content = document.querySelector("#content");
+const content = document.querySelector('#content');
 
 const show = (section) => {
   content.innerHTML = null;
@@ -37,4 +37,3 @@ homeBtn.addEventListener('click', displaySection);
 menuBtn.addEventListener('click', displaySection);
 contactBtn.addEventListener('click', displaySection);
 homeMenu.addEventListener('click', displaySection);
-
