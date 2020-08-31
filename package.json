@@ -1,0 +1,41 @@
+{
+  "name": "restuarant",
+  "version": "1.0.0",
+  "description": "> This is part of the Restuarant Project in [The Odin Project's](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page?ref=lnav) Javascript Curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "server": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiwocoker/Restuarant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taiwocoker/Restuarant/issues"
+  },
+  "homepage": "https://github.com/taiwocoker/Restuarant#readme",
+  "devDependencies": {
+    "css-loader": "^4.2.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "image-webpack-loader": "^6.0.0",
+    "style-loader": "^1.2.1",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.8.0",
+    "stylelint-scss": "^3.17.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
