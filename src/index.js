@@ -1,7 +1,7 @@
-import header from './navbar_dom_actions';
-import mainPage from './home_dom_actions';
-import menuItem from './menu_dom_actions';
-import contactUs from './contact_dom_actions';
+import header from './navbar';
+import mainPage from './homePage';
+import menuItem from './menu';
+import contactUs from './contact';
 
 const navbar = header();
 const homePage = mainPage();
