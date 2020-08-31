@@ -6,7 +6,7 @@
 
 ![screenshot](./app_screenshot.JPG)
 
- View the app live [here](https://taiwocoker.github.io/JavaScript_Tic-Tac-Toe/)
+ View the app live [here](https://rawcdn.githack.com/taiwocoker/Restuarant/c0fb758820c8ea4e4585391584606393d8b5db60/dist/index.html)
  
 ## Prerequisites
 
